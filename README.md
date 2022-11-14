@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on community Mobile and Web Developer.
 - 🤔 I’m looking for help with my skills.
 - 💬 Ask me about anything.
-- 
+
+
+
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/juliaosneto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaosneto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaosneto&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" wight="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaosneto&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
