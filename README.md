@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on community Mobile and Web Developer.
 - 🤔 I’m looking for help with my skills.
 - 💬 Ask me about anything.
+- :link: Find me = https://webresumejneto.000webhostapp.com/
 
 
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center" style="display: inline_block">
   <a href="https://github.com/juliaosneto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaosneto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaosneto&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaosneto&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -34,6 +35,10 @@ Here are some ideas to get you started:
 </div>
   
   ##
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/juliao-simoes-neto/))
+  [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)]([your-linkedin-url](https://www.facebook.com/profile.php?id=100014992081804))
+  
  <!--
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
