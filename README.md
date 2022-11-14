@@ -1,24 +1,21 @@
 ### Hi there 👋
 
-<!--
-**juliaosneto/juliaosneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julião Simões Neto. Mobile and Web Developer, Systems Analyst and Network Administrator.
+
+IT professional with over 17 years of infrastructure consulting experience in small and medium sized businesses, also with knowledge in front-end website development and APPs. I'm currently in career transition focused on improving my mobile application development skills. Learn More
+
+**juliaosneto/juliaosneto** is a ✨ _special_ ✨ repository
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on freelancer Mobile and Web Developer.
+- 🌱 I’m currently learning back-end.
+- 👯 I’m looking to collaborate on community Mobile and Web Developer.
+- 🤔 I’m looking for help with my skills.
+- 💬 Ask me about anything.
+- 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliaosneto&repo=github-readme-stats)](https://github.com/juliaosneto/github-readme-stats)
-
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/juliaosneto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaosneto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaosneto&layout=compact&langs_count=7&theme=vue-dark"/>
